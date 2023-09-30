@@ -1,29 +1,21 @@
+
+/*text stuff for heading 1 aka big guy */
 h1 {
-  padding: 0rem;
-  margin: auto;
-}
-
-
-
-h1 {
-  font-family: "Montserrat Medium";
+  font-family: 'Young Serif', serif;
   max-width: 40vw;
-  text-align: center;
-  padding-top: 10vh;
-  line-height: 2.5rem;
-max-height: 40vmax;
-  font-size: 50px;
+  line-height: 5rem;
+  max-height: 40vmax;
+  font-size: 100px;
+  padding: 2rem;
+  margin: auto;
+  justify-content: top;
 
   transform: scale(0.94);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-  color: black;
+  color: white;
 }
 
-
-
-
-
-
+/*cool animated stuff for moving text */
 @keyframes scale {
   100% {
     transform: scale(1);
