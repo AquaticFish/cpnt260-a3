@@ -1,0 +1,42 @@
+/* Call to Action "button" */
+article{
+  display: flex;
+  margin: auto;
+  padding: 1rem;
+
+  font-size: 40px;
+  padding-left: 9rem;
+  padding-right: 9rem;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  min-width: 100vmin;
+  line-height: 2rem;
+
+}
+
+
+.cta a, .cta a:visited {
+  margin: auto;
+  padding: 0.5rem 1rem;
+  width: fit-content;
+  
+  text-decoration: none;
+  
+  background-color: hsl(50, 100%, 60%);
+  color: hsl(50, 50%, 20%);
+  border-radius: .5rem;
+  display: flex;
+}
+
+/* Hover state */
+.cta a:hover {
+  background-color: hsl(50, 100%, 40%);
+  color: hsl(50, 50%, 95%);
+}
+
+/* Click state */
+.cta a:active {
+  background-color: hsl(0, 100%, 40%);
+  color: hsl(0, 50%, 95%);
+}

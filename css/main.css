@@ -7,16 +7,17 @@ header{
 
 body{
 
-  background-image: url("../plant.png");
+  background-image: url("green-plants.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; 
+  
 }
 
 nav ul {
   list-style: none;
   padding-left: 0;
-  background-color: transparent;
+  background-color: black;
   margin: 0;
   display: flex;
   justify-content: end;
@@ -30,11 +31,11 @@ nav a{
   width: min-content;
   display: block;
   text-decoration: none;
-  color: black;
+  color: white;
   }
 
   nav a:hover {
-    background-color: transparent;
+    background-color: black;
     color: hsl(49, 93%, 70%);
     text-decoration: underline;
   }

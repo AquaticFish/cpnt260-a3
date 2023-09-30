@@ -10,14 +10,13 @@ h1 {
   max-width: 40vw;
   text-align: center;
   padding-top: 10vh;
-  padding-bottom: 50vh;
   line-height: 2.5rem;
-
+max-height: 40vmax;
   font-size: 50px;
 
   transform: scale(0.94);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-  color: white;
+  color: black;
 }
 
 
