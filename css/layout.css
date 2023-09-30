@@ -1,22 +1,27 @@
-/* Call to Action "button" */
-article{
-  display: flex;
-  margin: auto;
-  padding: 1rem;
+.p{
+  padding-right: 2rem;
+}
 
-  font-size: 40px;
-  padding-left: 9rem;
-  padding-right: 9rem;
+/*smaller text stuff */
+article{
+  font-family: 'Inclusive Sans', sans-serif;
+  padding: 2rem;
+
+  font-size: 25px;
   display: flex;
   align-items: center;
   margin: auto;
-  min-width: 100vmin;
+  
+  min-width: 60vmin;
+  max-width: 20vmax;
   line-height: 2rem;
+  color: white;
 
 }
 
-
+/* button stuff*/
 .cta a, .cta a:visited {
+  font-family: 'Roboto', sans-serif;
   margin: auto;
   padding: 0.5rem 1rem;
   width: fit-content;
