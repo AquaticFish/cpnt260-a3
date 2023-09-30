@@ -9,7 +9,7 @@ Hero Section
 ## Author name: 
 Dorothy Nguyen
 
-## GH Pages site:
+[GH Pages site](//aquaticfish.github.io/cpnt260-a3/)
 
 ### Attributions:
 [unsplash](https://unsplash.com/photos/dmkmrNptMpw)
