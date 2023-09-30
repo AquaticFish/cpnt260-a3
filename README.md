@@ -25,3 +25,5 @@ Dorothy Nguyen
 [w3school](https://www.w3schools.com/cssref/pr_background-image.php)
 
 [quillbot](https://quillbot.com/)
+
+[font google](https://fonts.google.com/)
